@@ -1,0 +1,28 @@
+First palette ->
+#03B5AA
+#037971
+#023436
+#00BFB3
+#049A8F
+
+Second palette ->
+#E3E7AF
+#A2A77F
+#fad900
+#faa700
+#035E7B
+#002E2C
+#02232f
+
+Third palette ->
+Background (Dark Navy): #0F172A (Slate 900) — Deep, rich navy that reduces eye strain.
+
+Surface / Cards: #1E293B (Slate 800) — Slightly lighter tone for code blocks, project cards, and navbar.
+
+Primary Text: #F8FAFC (Slate 50) — High contrast, crisp off-white for readability.
+
+Secondary Text: #94A3B8 (Slate 400) — Muted gray for subtitles, metadata, and dates.
+
+Primary Accent (Cyan/Teal): #06B6D4 — Represents code variables/functions; stands out sharply for CTA buttons and active link states.
+
+Secondary Accent (Emerald): #10B981 — Classic terminal green; perfect for status badges (e.g., "Available for work") and hover highlights.
